@@ -1,0 +1,55 @@
+Column Name,Groupable,Boolean,Enum
+Item,,,
+Indicators,YES,,YES
+Status,YES,,YES
+Description,,,
+Part Status,,,
+Order Qty,,,
+Shortage Date,,,
+Multi-sourced,YES,YES,
+Part Type Code,YES,,YES
+Manufacturing LT,,,
+Product Family,YES,,YES
+Material Type,YES,,YES
+Replenishement LT,,,
+LT offset,,,
+Max Order Qty,,,
+Min Order Qty,,,
+Multiple order qty,,,
+Container Qty,,,
+Phase-in,,,
+Phase-out,,,
+UOM,YES,,YES
+Report Field 1,,,
+Report Field 2,,,
+Report Field 3,,,
+Report Field 4,,,
+Report Field 5,,,
+Report Field 6,,,
+Report Field 7,,,
+Report Field 8,,,
+Report Field 9,,,
+Report Field 10,,,
+Planner Code,YES,,YES
+Supplier Code,YES,,YES
+Order Value,,,
+Original Order Qty,,,
+On-hand Qty,,,
+Excess Qty,,,
+Shortage Quantity,,,
+Special Demand,YES,YES,
+Planned Receipt,,,
+Material,,,
+Capacity,,,
+Flagged,YES,YES,
+RTO Priority,,,
+Rule,YES,,YES
+Resource ID,,,
+Work Center Code,,,
+WC Supplier Code,,,
+Ordering Group,,,
+Production Version,,,
+Supply type,YES,,YES
+Location,YES,,YES
+Reference,,,
+Settings,,,
